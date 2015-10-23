@@ -1,0 +1,3 @@
+[submodule "themes/bookish"]
+	path = themes/bookish
+	url = git@github.com:dblezek/bookish.git

@@ -1,0 +1,14 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "Bookish"
+author = "Daniel Blezek"
+
+[[menu.introduction]]
+  name = "Introduction"
+  weight = 1
+  url = "/introduction"
+
+[[menu.bookish]]
+  name = "Using bookish"
+  weight = 5
+  url = "/bookish"

@@ -1,1 +1,3 @@
-# bookish-docs
+# Documentation of the bookish Hugo template
+
+
