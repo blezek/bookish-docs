@@ -3,12 +3,14 @@ languageCode = "en-us"
 title = "Bookish"
 author = "Daniel Blezek"
 
-[[menu.introduction]]
+[[menu.main]]
   name = "Introduction"
   weight = 1
   url = "/introduction"
+  identifier = "introduction"
 
-[[menu.bookish]]
-  name = "Using bookish"
+[[menu.main]]
+  name = "Bookish menu item"
   weight = 5
   url = "/bookish"
+  identifier = "bookish"
